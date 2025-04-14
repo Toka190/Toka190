@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Toka</h1>
 
-<!--
-**Toka190/Toka190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Final-year Information Systems student at the Faculty of Computers & AI, Helwan University.<br>
+💻 Passionate about web development, problem solving, and building real-world tech solutions.<br>
+🌱 Currently learning React & Spring Boot for my graduation project.<br>
+🤝 Always open to collaboration and learning from others.<br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack I'm working with:
+- Frontend: **HTML, CSS, JavaScript, React**
+- Backend: **Java, Spring Boot, PHP**
+- Database: **MySQL**
+- Tools: **Git, GitHub, Postman**
+
+
+---
+
+### 📫 Let's connect!
+-  [LinkedIn](www.linkedin.com/in/toka-salah-1b479423a)  
+-  Email: to8286471@gmail.com  
+-  GitHub: [@Toka190](https://github.com/Toka190)
+
+---
+
+_Thanks for stopping by!_ 😊
